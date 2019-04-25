@@ -1,3 +1,0 @@
-[submodule "hardware/pixl_board"]
-	path = hardware/pixl_board
-	url = https://github.com/poppy-project/pixl.git
