@@ -1,1 +1,1 @@
-from poppy_ergo_slider import PoppyErgoSlider
+from .mila_slider import MilaSlider
