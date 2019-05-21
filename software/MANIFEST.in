@@ -1,3 +1,0 @@
-include poppy_ergo_jr/configuration/*.json
-include poppy_ergo_jr/vrep-scene/*.ttt
-include poppy_ergo_jr/poppy_ergo_jr.urdf
